@@ -1,4 +1,62 @@
+What is Java?
+-->Java is a widely-used programming language for coding web applications. It has been a popular choice among developers for over two decades, with millions of Java applications in use today. Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself. It is a fast, secure, reliable programming language for coding everything from mobile apps and enterprise software to big data applications and server-side technologies.
 
+What is Java programming language used for? 
+-->
+1.Game Development
+2.Cloud computing3.    
+3.Big Data
+4.Artificial Intelligence
+5.Internet of Things
+6.Mobile App Development
+7.Desktop GUI Applications
+8.Web-based Applications
+10. Distributed Applications
+   
+
+Why is Java such a popular choice among modern-day software developers?
+-->
+High quality learning resources
+Security
+Active community support
+Platform Independent
+High-quality development tools
+Inbuilt functions and libraries
+
+How does Java work? 
+All programming languages are a means to communicate with machines. Machine hardware only responds to electronic communication. High-level programming languages like Java act as a bridge between human language and hardware language. To use Java, a developer needs to understand two things:
+1. Java language and APIs : This is the front-end communication between the developer and the Java platform.
+2. Java Virtual Machine : This is the back-end communication between the Java platform and the underlying hardware. Let’s look at each of these in detail below.
+
+
+What is Java API?
+Java defines the syntax and semantics of the Java programming language. This includes the basic vocabulary and rules used to write algorithms such as primitive data types, if/else blocks, loops, etc.
+APIs are important software components bundled with the Java Platform. These are pre-written Java programs that can plug and play existing functionality into your own code. For example, you could use Java APIs to get the date and time, perform mathematical operations, or manipulate text. 
+Any Java application code written by a developer will typically combine new and pre-existing code from Java APIs and Java libraries.
+
+
+What is Java Virtual Machine?
+The Java Virtual Machine acts as an additional abstraction layer between the Java platform and the underlying machine hardware. Java source code can run only on those machines that have JVM installed on them. The answer to why the Java Virtual Machine is needed lies in the history of programming.
+
+The history of programming
+When natural programming languages were first developed, they fell into two broad categories, depending on how they communicated with the underlying hardware.
+  Compilers: The complete program is written in natural English-like syntax with compilers, and the language then compiles (or translates) the entire code into machine code. The compiled code is then run on the hardware.
+    Interpreters: With interpreters, every high-level code statement is interpreted into machine code on the fly.  Written statements are run immediately by the hardware before looking at the next statement.
+
+
+The Java runtime environment:
+The Java program was the first language to combine both methods above using a Java Virtual Machine (JVM). The Java code compiler is called the Java Virtual Machine. Any Java file is first compiled into bytecode. Java bytecode can only run in the JVM. The JVM then interprets the bytecode to run it on the underlying hardware platform. So if the application is running on a Windows machine, the JVM will interpret it for Windows. But if it is running on an open-source platform like Linux, the JVM will interpret it for Linux. 
+
+
+
+How to program in Java?
+-->To begin programming in Java, you need to install a Java Edition on your system.
+    Java Standard Edition (Java SE)
+    Java Enterprise Edition (Java EE)
+    Java Micro Edition (Java ME)
+
+
+-------------------------------------------------
  
 First install jdk in your system.
 
